@@ -1,0 +1,8 @@
+paths:
+  data_path: 'path/to/your/data.csv'
+  model_save_path: 'best_model.pt'
+
+hyperparameters:
+  learning_rate: 0.001
+  batch_size: 32
+  epochs: 50
